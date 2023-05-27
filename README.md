@@ -20,11 +20,11 @@ In order to begin making films the company needs to know the type of films it ne
 1. Business understanding
 2. Data understanding
 3. Data preparation :
-                  - Importing the relevant libraries
-                  - Loading and exploring the datasets
-                  - Checking for missing values and duplicates
-                  - Checking for placeholders
-                  - Note on outliers
+   - Importing the relevant libraries
+   - Loading and exploring the datasets
+   - Checking for missing values and duplicates
+   - Checking for placeholders
+   - Note on outliers
 4. Data analysis :
                 - Determining which films had the highest rating on IMDb
                 - Determinig which films have the highest profits
