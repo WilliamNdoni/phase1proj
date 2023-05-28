@@ -1,4 +1,5 @@
 # AFFLUENT FILMS AT BOX OFFICE : CASE STUDY MICROSOFT
+[Presentation link ](https://docs.google.com/presentation/d/1LKsdnHcC4Pcg6QmnYKUKQx5oBOTOZYL1VUmYK0oaB1Y/edit#slide=id.g24b80dc0e6c_2_187)
 
 ## Introduction
 
@@ -26,10 +27,10 @@ In order to begin making films the company needs to know the type of films it ne
    - Checking for placeholders
    - Note on outliers
 4. Data analysis :
-                - Determining which films had the highest rating on IMDb
-                - Determinig which films have the highest profits
-                - Investigating the relationship between budget and profit in filming
-                - Determining the most appropriate duration (runtime_minutes) of films          
+      - Determining which films had the highest rating on IMDb
+      - Determinig which films have the highest profits
+      - Investigating the relationship between budget and profit in filming
+      - Determining the most appropriate duration (runtime_minutes) of films          
 5. Conclusions.
 6. Recommendations.
 
